@@ -1,3 +1,6 @@
+# THIS IS BROKEN 
+as of 19/3/2019
+
 # tinderautoswipe
 An auto swiper for the web version of tinder
 
